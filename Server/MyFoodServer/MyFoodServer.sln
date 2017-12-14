@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFoodServer.API", "MyFoodServer.API\MyFoodServer.API.csproj", "{33B504B9-7FF9-4254-9D29-2874993A95A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFoodServer.DAL", "MyFoodServer.DAL\MyFoodServer.DAL.csproj", "{C60D6B52-F380-4C9A-AF5A-FCA4AEDAF7E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B504B9-7FF9-4254-9D29-2874993A95A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B504B9-7FF9-4254-9D29-2874993A95A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B504B9-7FF9-4254-9D29-2874993A95A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B504B9-7FF9-4254-9D29-2874993A95A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60D6B52-F380-4C9A-AF5A-FCA4AEDAF7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60D6B52-F380-4C9A-AF5A-FCA4AEDAF7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60D6B52-F380-4C9A-AF5A-FCA4AEDAF7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60D6B52-F380-4C9A-AF5A-FCA4AEDAF7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1CD890B-31F1-4F39-8DFC-CD8E09F0A73B}
+	EndGlobalSection
+EndGlobal

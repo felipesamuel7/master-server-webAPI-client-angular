@@ -1,0 +1,6 @@
+C:\desenvolvimento\DotNet\projects\Cedro\MyFoodServer\MyFoodServer.DAL\obj\Debug\MyFoodServer.DAL.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\DotNet\projects\Cedro\MyFoodServer\MyFoodServer.DAL\bin\Debug\MyFoodServer.DAL.dll
+C:\desenvolvimento\DotNet\projects\Cedro\MyFoodServer\MyFoodServer.DAL\bin\Debug\MyFoodServer.DAL.pdb
+C:\desenvolvimento\DotNet\projects\Cedro\MyFoodServer\MyFoodServer.DAL\obj\Debug\MyFoodServer.DAL.dll
+C:\desenvolvimento\DotNet\projects\Cedro\MyFoodServer\MyFoodServer.DAL\obj\Debug\MyFoodServer.DAL.pdb
+C:\desenvolvimento\DotNet\projects\Cedro\MyFoodServer\MyFoodServer.DAL\obj\Debug\MyFoodServer.DAL.csprojResolveAssemblyReference.cache
